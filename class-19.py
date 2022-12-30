@@ -1,5 +1,5 @@
 class a:
-    name="Ranit"
+    name="Kartik saluja"
     marks=90
 type(a)
 a=6
@@ -12,7 +12,7 @@ class A:
  
 b=A.__call__()
 b=A()
-a={"name": "Ranit"}
+a={"name": "Kartik"}
 a["name"]
 a.__getitem__("name")
 
